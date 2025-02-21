@@ -8,9 +8,8 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <a href="/">Laravel 11</a>
-    <a href="/home">Home</a>
-    <a href="/home">About</a>
+    <a href="/">Home</a>
+    <a href="/about">About</a>
     <a href="/contact">Contact</a>
     <header>
         <h1>Blog Tentang Laravel</h1>
