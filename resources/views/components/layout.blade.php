@@ -13,8 +13,10 @@
 </head>
 <body class="h-full">
 <div class="min-h-full">
+  {{-- Navbar --}}
   <x-navbar></x-navbar>
 
+  {{-- Header --}}
   <x-header>{{ $title }}</x-header>
 
   <main>
